@@ -3,3 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.details{
+    position: absolute;
+    top: 170%;
+    left: 17%;
+}
+
